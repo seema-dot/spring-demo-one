@@ -6,6 +6,7 @@ public class TrackCoach implements Coach{
 	public String getDailyWorkout() {
 		// TODO Auto-generated method stub
 		return "Spend some time on Track...Hello How are You";
+		return "Spend some time on Track...Hello hii hello";
 	}
 
 }
