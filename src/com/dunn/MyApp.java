@@ -7,6 +7,7 @@ public class MyApp {
 		Coach coach = new TrackCoach();
 		System.out.println(coach.getDailyWorkout());
 		System.out.println("Hiiii...");
+		System.out.println("Hello  kitty....");
 	}
 
 }
