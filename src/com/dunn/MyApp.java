@@ -6,6 +6,8 @@ public class MyApp {
 		// TODO Auto-generated method stub
 		Coach coach = new TrackCoach();
 		System.out.println(coach.getDailyWorkout());
+		System.out.println("Hiiii...");
+		System.out.println("Hello  kitty....");
 	}
 
 }
